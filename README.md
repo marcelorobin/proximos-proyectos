@@ -45,13 +45,14 @@
 10. Uso de la librería allauth
 13. Como guardar los settings de Visual Studio Code en la nube https://youtube.com/playlist?list=PLxooeC3-xaNdMCNWK_E0kWgsEsH1dyqYq  [COMPLETADO]
 14. Curso de github completo
-15. Compendio de Plugins recomendados para Visual Studio Code
+15. Compendio de Plugins recomendados para Visual Studio Code [EN PROCESO] https://youtube.com/playlist?list=PLxooeC3-xaNfixIzdva-jV414Sf6DcCwh
 12. Lista de Reproducción de Recursos para programación web
 16. Curso completo de HTML
-17. Curso completo de JavaScript
+17. Curso completo de JavaScript [EN PROCESO] https://youtube.com/playlist?list=PLxooeC3-xaNc1WJ9W8h6m_GhyjBMY1tls
 17. Curso completo de CSS
 18. Principios de Bootstrap
 19. Curso de Laravel
+20. Asignar usuarios a grupos de forma predeterminada [COMPLETADO] https://www.youtube.com/watch?v=p17T7uZKgFg
 
 
 Nuestro canal en Youtube: *[Código para Principiantes](https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ)*
